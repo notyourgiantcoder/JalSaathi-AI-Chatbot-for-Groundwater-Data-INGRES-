@@ -8,13 +8,14 @@ JalSaathi is an **AI-powered conversational interface for groundwater resource d
 
 ## 🎥 Project Demo
 
-> **Demo video coming soon.**
+> **Demo video below...**
 
 <div align="center">
 
 📹 **JalSaathi — Product Walkthrough**
 
-*Video demonstration will be added here.*
+
+[▶️ **Watch JalSaathi Demo**](./docs/demo.mp4)
 
 </div>
 
